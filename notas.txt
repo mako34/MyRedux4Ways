@@ -1,0 +1,15 @@
+
+Todo
+. separate folders organize
+
+
+steps
+1. constants.js
+2. actions
+4. configureStore.js
+5. index.js
+
+
+
+//
+3. epic.js
